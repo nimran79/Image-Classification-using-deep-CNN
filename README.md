@@ -4,3 +4,6 @@ and loss functions, newer data preprocessing methods and optimization procedures
 
 In this project, we explored the impact of using different custom activation functions on the **ResNet50** architecture and then the obtained results wwas compared with a model trained using **transfer learning**. 
 For the transfer learning, the base model was based on ResNet50 using pretrained weights from Imagenet and then the model was fine-tuned for better accuracy.
+
+![Custom Activation Function](https://github.com/nimran79/Image-Classification-using-deep-CNN/blob/main/CustActivation.png)
+
